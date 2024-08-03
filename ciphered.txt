@@ -22,3 +22,4 @@ scintilla
 conforming
 clavichordist
 quorum
+spectatorship
