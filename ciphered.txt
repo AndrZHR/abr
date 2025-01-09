@@ -9,3 +9,4 @@ drinkings
 amuse
 washy
 exhibition
+barhops
