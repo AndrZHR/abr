@@ -11,3 +11,4 @@ washy
 exhibition
 barhops
 basifying
+operates
